@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pull-stream": "3.6.1"
+  }
+}
